@@ -1,4 +1,4 @@
-#Olá, eu sou a Allana! 
+# Olá, eu sou a Allana! 
 
 <p align="center">
     Sou aluna da turma 10 do bootcamp de Front-end na {reprograma}, estudante de tecnologia em Análise e Desenvolvimento de Sistemas pelo IFPE campus Paulista, Bióloga graduada pela UPE e especialista em Gestão Ambiental pela Estácio. 
