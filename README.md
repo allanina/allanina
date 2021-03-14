@@ -1,26 +1,16 @@
-## Olá, eu sou a Allana! 👋
+## Olá, eu sou a Allana! (ela/dela/she/her)
 
-### Sobre mim
-<!--
-**allanina/allanina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>
-    Sou aluna da Turma 10 do bootcamp de Front-end da {reprograma}, estudante de tecnologia em Análise e Desenvolvimento de Sistemas pelo IFPE Campus Paulista, bióloga graduada pela UPE e especialista em Gestão Ambiental pela Estácio.
-    Atualmente estou em tansição de carreira para a área de tecnologia, e busco ampliar meus conhecimentos em dDesenvolvimento Front-end. 
+<p align="center">
+    Sou aluna da turma 10 do bootcamp de Front-end na {reprograma}, estudante de tecnologia em Análise e Desenvolvimento de Sistemas pelo IFPE campus Paulista, Bióloga graduada pela UPE e especialista em Gestão Ambiental pela Estácio. 
+      
+<p align="center">
+    Estou realizando minha transição de carreira para a área de tecnologia, buscando me tornar uma desenvolvedora Front-end. 
+<p align="center">
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=allanina&show_icons=true&theme=vue-dark"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=allanina&layout=compact&langs_count=8&theme=vue-dark"/>
 
-### Minhas redes sociais
+### Redes sociais
 
-<a href="https://linkedin.com/in/allanaevellynmendes/"><img src="https://img.shields.io/badge/-Allana_Evellyn_Mendes-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:allananaevellynm@gmail.com"><img src="https://img.shields.io/badge/-allanaevellynm@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/allanaevellynmendes/"><img src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="mailto:allanaevellynm@gmail.com"><img src="https://img.shields.io/badge/-Email-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
 </p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
