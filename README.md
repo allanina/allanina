@@ -1,8 +1,12 @@
-# Olá, eu sou a Allana! 👋
+## Olá, eu sou a Allana! 👋
 
-## Sobre mim
+### Sobre mim
 <!--
 **allanina/allanina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    Sou aluna da Turma 10 do bootcamp de Front-end da {reprograma}, estudante de tecnologia em Análise e Desenvolvimento de Sistemas pelo IFPE Campus Paulista, bióloga graduada pela UPE e especialista em Gestão Ambiental pela Estácio.
+    Atualmente estou em tansição de carreira para a área de tecnologia, e busco ampliar meus conhecimentos em dDesenvolvimento Front-end. 
+<p>
 
 Here are some ideas to get you started:
 
