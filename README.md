@@ -6,7 +6,7 @@
 <p>
     Sou aluna da Turma 10 do bootcamp de Front-end da {reprograma}, estudante de tecnologia em Análise e Desenvolvimento de Sistemas pelo IFPE Campus Paulista, bióloga graduada pela UPE e especialista em Gestão Ambiental pela Estácio.
     Atualmente estou em tansição de carreira para a área de tecnologia, e busco ampliar meus conhecimentos em dDesenvolvimento Front-end. 
-<p>
+</p>
 
 Here are some ideas to get you started:
 
