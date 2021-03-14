@@ -6,6 +6,11 @@
 <p>
     Sou aluna da Turma 10 do bootcamp de Front-end da {reprograma}, estudante de tecnologia em Análise e Desenvolvimento de Sistemas pelo IFPE Campus Paulista, bióloga graduada pela UPE e especialista em Gestão Ambiental pela Estácio.
     Atualmente estou em tansição de carreira para a área de tecnologia, e busco ampliar meus conhecimentos em dDesenvolvimento Front-end. 
+
+### Minhas redes sociais
+
+<a href="https://linkedin.com/in/allanaevellynmendes/"><img src="https://img.shields.io/badge/-Allana_Evellyn_Mendes-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:allananaevellynm@gmail.com"><img src="https://img.shields.io/badge/-allanaevellynm@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 Here are some ideas to get you started:
