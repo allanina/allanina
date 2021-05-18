@@ -1,9 +1,9 @@
 # Olá, eu sou a Allana! 🌱
 
 <p align="center">
-    Sou aluna da turma 10 do bootcamp de Front-end na {reprograma}, estudante de tecnologia em Análise e Desenvolvimento de Sistemas pelo IFPE campus Paulista, Bióloga graduada pela UPE e especialista em Gestão Ambiental pela Estácio. 
+    Sou aluna da turma 10 do bootcamp de Front-end na {reprograma}, estudante de tecnologia em Análise e Desenvolvimento de Sistemas pelo IFPE campus Paulista, Bióloga graduada pela UPE e especialista em Gestão Ambiental pela Estácio. Estou realizando minha transição de carreira para a área de tecnologia, buscando me tornar uma desenvolvedora Front-end. 
 <p align="center">
-    Estou realizando minha transição de carreira para a área de tecnologia, buscando me tornar uma desenvolvedora Front-end. 
+    I'm a front-end development student at {reprograma}, and a system's analysis and development student at IFPE. I'm also a biologist, graduated from the University of Pernambuco and a specialist in environmental management graduated from Estácio College. I'm currently in my career transition, and in the process to become a front-end developer.
     
 
 ### Competências e estatísticas:
