@@ -6,8 +6,7 @@
     
     -----------------------------------------------------
     
-<p align="center">
-    
+<p align="center">  
     I'm a front-end development student at {reprograma}, and a system's analysis and development student at IFPE. I'm also a biologist, graduated from the University of Pernambuco and a specialist in environmental management graduated from Estácio College. I'm currently in my career transition, and in the process to become a front-end developer.
     
 
