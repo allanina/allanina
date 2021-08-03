@@ -16,8 +16,8 @@
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=allanina&show_icons=true&theme=vue-dark"/>
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=allanina&layout=compact&langs_count=8&theme=vue-dark"/>
 
-### Redes sociais
 
+<p align="center">
 <a href="https://www.linkedin.com/in/allanaevellyn/"><img src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
 <a href="mailto:allanaevellynm@gmail.com"><img src="https://img.shields.io/badge/-Email-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
 <a href="https://instagram.com/allanina__/"><img src="https://img.shields.io/badge/-Instagram-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
