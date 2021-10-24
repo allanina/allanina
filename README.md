@@ -1,7 +1,7 @@
 # Olá, eu sou a Allana! 🌱🍄 
 
 <p align="center">
-    Sou aluna da turma 10 do bootcamp de Front-end na {reprograma}, estudante de tecnologia em Análise e Desenvolvimento de Sistemas pelo IFPE campus Paulista, Bióloga graduada pela UPE e especialista em Gestão Ambiental pela Estácio. Estou realizando minha transição de carreira para a área de tecnologia, buscando me tornar uma desenvolvedora Front-end. 
+    Sou desenvolvedora Front-end Jr, em busca de cada dia mais me desenvolver na área e aprender coisas novas
 
 <p align="center">
     
