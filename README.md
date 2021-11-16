@@ -1,7 +1,7 @@
 # Olá, eu sou a Allana! 🌱🍄 
 
 <p align="center">
-    Sou desenvolvedora Front-end Jr, em busca de cada dia mais me desenvolver na área e aprender coisas novas
+    Desenvolvedora Front-end Jr, estudante de Análise e Desenvolvimento de Sistemas Bióloga, especialista em Gestão Ambiental. 
 
 <p align="center">
     
