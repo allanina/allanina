@@ -1,6 +1,6 @@
 # Olá, eu sou a Allana! 🌱🍄 
 
-<p align="center">
+<p align="justify">
     Desenvolvedora Front-end Jr na Insole, estudante de Análise e Desenvolvimento de Sistemas e UX Design, Bióloga, especialista em Gestão Ambiental. 
 
 <p align="center">
