@@ -1,4 +1,4 @@
-# Olá, eu sou a Allana! 🌱🍄 
+# Olá, eu sou a Allana! 🌱 
 
 <p align="justify">
     Desenvolvedora Front-end Jr na Sanar, estudante de Análise e Desenvolvimento de Sistemas e UX Design, Bióloga, especialista em Gestão Ambiental. Atualmente, estou desenvolvendo mais as minhas habilidades em ReactJS e aprendendo Typescript.
