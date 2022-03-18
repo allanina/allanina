@@ -1,6 +1,6 @@
 # Olá, eu sou a Allana! 🌱 
 
-<img src="https://images2.imgbox.com/64/d0/5Sa9gzbJ_o.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Mulher com computador allanina">
+<img src="https://images2.imgbox.com/63/51/dLr3mt5R_o.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Mulher com computador allanina">
 
 <p align="left"> 
   Sou <strong>Desenvolvedora Front-end Jr</strong> na Sanar.<br>
@@ -12,19 +12,19 @@
 
 #### Stacks:
 
-![HTML](https://img.shields.io/badge/-HTML-FF3796?style=for-the-badge&logo=html5&labelColor=EC8298)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-FF3796?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=EC8298)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-FF3796?style=for-the-badge&logo=javascript&labelColor=EC8298)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-FF3796?style=for-the-badge&logo=typescript&labelColor=EC8298)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-FF3796?style=for-the-badge&logo=react&labelColor=EC8298)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-D9A714?style=for-the-badge&logo=html5&labelColor=0D0D0D)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-D9A714?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D0D0D)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-D9A714?style=for-the-badge&logo=javascript&labelColor=0D0D0D)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-D9A714?style=for-the-badge&logo=typescript&labelColor=0D0D0D)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-D9A714?style=for-the-badge&logo=react&labelColor=0D0D0D)&nbsp;
 
 
 #### Contato:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/allanaevellyn/"><img src="https://img.shields.io/badge/-Linkedin-00C2CB?style=flat&logo=appveyor=&logoColor=white"/></a>
-<a href="mailto:allanaevellynm@gmail.com"><img src="https://img.shields.io/badge/-Email-00C2CB?style=flat&logo=appveyor=&logoColor=white"/></a>
-<a href="https://twitch.tv/allanina/"><img src="https://img.shields.io/badge/-Twitch-00C2CB?style=flat&logo=appveyor=&logoColor=white"/></a>
-<a href="https://linktr.ee/allanina"><img src="https://img.shields.io/badge/-Linktree-00C2CB?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/allanaevellyn/"><img src="https://img.shields.io/badge/-Linkedin-F24607?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="mailto:allanaevellynm@gmail.com"><img src="https://img.shields.io/badge/-Email-F24607?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="https://twitch.tv/allanina/"><img src="https://img.shields.io/badge/-Twitch-F24607?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="https://linktr.ee/allanina"><img src="https://img.shields.io/badge/-Linktree-F24607?style=flat&logo=appveyor=&logoColor=white"/></a>
 </p>
 
