@@ -1,20 +1,27 @@
 # Olá, eu sou a Allana! 🌱 
 
-<p align="justify">
-    Desenvolvedora Front-end Jr na Sanar, estudante de Análise e Desenvolvimento de Sistemas e UX Design, Bióloga, especialista em Gestão Ambiental. Atualmente, estou desenvolvendo mais as minhas habilidades em ReactJS e aprendendo Typescript.
+<img src="https://images2.imgbox.com/64/d0/5Sa9gzbJ_o.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Mulher com computador allanina">
 
-<p align="center">
+<p align="left"> 
+  Sou <strong>Desenvolvedora Front-end Jr</strong> na Sanar.<br>
     
-### Competências e estatísticas:
-      
-<p align="center">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=allanina&show_icons=true&theme=vue-dark"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=allanina&layout=compact&langs_count=8&theme=vue-dark"/>
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/allanaevellyn/"><img src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
-<a href="mailto:allanaevellynm@gmail.com"><img src="https://img.shields.io/badge/-Email-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
-<a href="https://instagram.com/allanina__/"><img src="https://img.shields.io/badge/-Instagram-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
-<a href="https://linktr.ee/allanina"><img src="https://img.shields.io/badge/-Linktree-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
+  Sou estudante de CST em Sistemas para Internet e Pós-graduanda em Análise e Desenvolvimento de Programas, além de Bióloga e especialista em Gestão Ambiental.
 </p>
+
+#### Stacks:
+
+![HTML](https://img.shields.io/badge/-HTML-FF3796?style=for-the-badge&logo=html5&labelColor=EC8298)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-FF3796?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=EC8298)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-FF3796?style=for-the-badge&logo=javascript&labelColor=EC8298)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-FF3796?style=for-the-badge&logo=react&labelColor=EC8298)&nbsp;
+
+
+#### Contato:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/allanaevellyn/"><img src="https://img.shields.io/badge/-Linkedin-00C2CB?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="mailto:allanaevellynm@gmail.com"><img src="https://img.shields.io/badge/-Email-00C2CB?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="https://twitch.tv/allanina/"><img src="https://img.shields.io/badge/-Twitch-00C2CB?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="https://linktr.ee/allanina"><img src="https://img.shields.io/badge/-Linktree-00C2CB?style=flat&logo=appveyor=&logoColor=white"/></a>
+</p>
+
