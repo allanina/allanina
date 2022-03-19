@@ -25,6 +25,7 @@
 <a href="https://www.linkedin.com/in/allanaevellyn/"><img src="https://img.shields.io/badge/-Linkedin-F24607?style=flat&logo=appveyor=&logoColor=white"/></a>
 <a href="mailto:allanaevellynm@gmail.com"><img src="https://img.shields.io/badge/-Email-F24607?style=flat&logo=appveyor=&logoColor=white"/></a>
 <a href="https://twitch.tv/allanina/"><img src="https://img.shields.io/badge/-Twitch-F24607?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="https://medium.com/@allanina"><img src="https://img.shields.io/badge/-Medium-F24607?style=flat&logo=appveyor=&logoColor=white"/></a>
 <a href="https://linktr.ee/allanina"><img src="https://img.shields.io/badge/-Linktree-F24607?style=flat&logo=appveyor=&logoColor=white"/></a>
 </p>
 
