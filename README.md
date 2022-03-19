@@ -10,7 +10,7 @@
   Sou estudante de CST em Sistemas para Internet e Pós-graduanda em Análise e Desenvolvimento de Programas, além de Bióloga e especialista em Gestão Ambiental.
 </p>
 
-#### Stacks:
+#### Skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-D9A714?style=for-the-badge&logo=html5&labelColor=0D0D0D)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-D9A714?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D0D0D)&nbsp;
