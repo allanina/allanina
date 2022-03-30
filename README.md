@@ -5,7 +5,7 @@
 <p align="left"> 
   Sou <strong>Desenvolvedora Front-end Jr</strong> na Sanar.<br>
   
-  Realizei transição de carreira em 2021 e fui aluna da turma On13 em Desenvolvimento Front-end na <strong>{reprograma}</strong>, atualmente sou professora da oficina de seleção na {reprograma} também!
+  Realizei transição de carreira em 2021 e fui aluna da turma On10 em Desenvolvimento Front-end na <strong>{reprograma}</strong>, atualmente sou professora da oficina de seleção na {reprograma} também!
   
   Também sou estudante de CST em Sistemas para Internet e Pós-graduanda em Análise e Desenvolvimento de Programas, além de Bióloga e especialista em Gestão Ambiental.
 </p>
