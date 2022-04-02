@@ -12,11 +12,14 @@
 
 #### Skills:
 
-![HTML](https://img.shields.io/badge/-HTML-D9A714?style=for-the-badge&logo=html5&labelColor=0D0D0D)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-D9A714?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D0D0D)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-D9A714?style=for-the-badge&logo=javascript&labelColor=0D0D0D)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-D9A714?style=for-the-badge&logo=typescript&labelColor=0D0D0D)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-D9A714?style=for-the-badge&logo=react&labelColor=0D0D0D)&nbsp;
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-F7DF1E?style=for-the-badge&logo=css3&logoColor=black "/>
+  <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black"/>
+</div>
 
 
 #### Contato:
