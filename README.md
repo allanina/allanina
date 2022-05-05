@@ -1,4 +1,4 @@
-# Olá, eu sou a Allana! 🌱 
+# Olá, eu sou a Allana!🪴 
 
 <img src="https://images2.imgbox.com/63/51/dLr3mt5R_o.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Mulher com computador allanina">
 
