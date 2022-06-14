@@ -17,6 +17,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ReactJS-F7DF1E?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NextJS-F7DF1E?style=for-the-badge&logo=nextdotjs&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-F7DF1E?style=for-the-badge&logo=css3&logoColor=black "/>
   <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" /> 
