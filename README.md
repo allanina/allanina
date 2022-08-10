@@ -7,7 +7,7 @@
   
   Realizei transição de carreira em 2021 e fui aluna da turma On10 em Desenvolvimento Front-end na <strong>{reprograma}</strong>, onde atualmente sou professora da oficina de seleção.
   
-  Também sou estudante de CST em Análise e Desenvolvimento de Sistemas e Pós-graduanda em Análise e Desenvolvimento de Programas, além de Bióloga e especialista em Gestão Ambiental.
+  Também sou estudante de CST em Sistemas para Internet e Pós-graduanda em Análise e Desenvolvimento de Programas, além de Bióloga e especialista em Gestão Ambiental.
   
   Gosto de atuar em projetos que impactem positivamente a vida das pessoas, principalmente quando relacionados a áreas como educação e sustentabilidade.
 </p>
