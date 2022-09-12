@@ -5,9 +5,9 @@
 <p align="left"> 
   Sou <strong>Desenvolvedora Front-end Jr</strong> na Sanar.<br>
   
-  Realizei transição de carreira em 2021 e fui aluna da turma On10 em Desenvolvimento Front-end na <strong>{reprograma}</strong>, onde atualmente sou professora da oficina de seleção.
+  Realizei transição de carreira em 2021 e fui aluna da turma On10 em Desenvolvimento Front-end na <strong>{reprograma}</strong>, onde atualmente sou professora da oficina de seleção. Sou também monitora voluntária de Front-end e UX/UI da terceira turma do projeto "Impulsione um Tech" da empresa Feel Tech RH, que visa mentorar iniciantes na área de desenvolvimento e ajudá-los a encontrar suas primeiras experiências de trabalho.
   
-  Também sou estudante de CST em Sistemas para Internet e Pós-graduanda em Análise e Desenvolvimento de Programas, além de Bióloga e especialista em Gestão Ambiental.
+  Também sou estudante de CST em Análise e Desenvolvimento de Sistemas e Pós-graduanda em Análise e Desenvolvimento de Programas e Desenvolvimento de Software com Metodologias Ágeis, além de Bióloga e especialista em Gestão Ambiental.
   
   Gosto de atuar em projetos que impactem positivamente a vida das pessoas, principalmente quando relacionados a áreas como educação e sustentabilidade.
 </p>
