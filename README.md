@@ -1,13 +1,13 @@
-# Olá, eu sou a Allana!🪴 
+# Olá, eu sou a Allana!
 
 <img src="https://images2.imgbox.com/63/51/dLr3mt5R_o.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Mulher com computador allanina">
 
 <p align="left"> 
-  Sou <strong>Desenvolvedora Front-end Jr</strong> na Sanar.<br>
+  Sou <strong>Desenvolvedora Front-end Jr</strong> <br>
   
-  Realizei transição de carreira em 2021 e fui aluna da turma On10 em Desenvolvimento Front-end na <strong>{reprograma}</strong>, onde atualmente sou professora da oficina de seleção. Sou também monitora voluntária de Front-end e UX/UI da terceira turma do projeto "Impulsione um Tech" da empresa Feel Tech RH, que visa mentorar iniciantes na área de desenvolvimento e ajudá-los a encontrar suas primeiras experiências de trabalho.
+  Realizei transição de carreira em 2021 e fui aluna da turma On10 em Desenvolvimento Front-end na <strong>{reprograma}</strong>, onde atualmente sou professora da oficina de seleção. Fui também monitora voluntária de Front-end e UX/UI da terceira turma do projeto "Impulsione um Tech" da empresa Feel Tech RH, que visa mentorar iniciantes na área de desenvolvimento e ajudá-los a encontrar suas primeiras experiências de trabalho.
   
-  Também sou estudante de CST em Análise e Desenvolvimento de Sistemas e Pós-graduanda em Análise e Desenvolvimento de Programas e Desenvolvimento de Software com Metodologias Ágeis, além de Bióloga e especialista em Gestão Ambiental.
+  Também sou estudante de Análise e Desenvolvimento de Sistemas e Pós-graduada em Análise e Desenvolvimento de Programas, além de Bióloga e especialista em Gestão Ambiental.
   
   Gosto de atuar em projetos que impactem positivamente a vida das pessoas, principalmente quando relacionados a áreas como educação e sustentabilidade.
 </p>
