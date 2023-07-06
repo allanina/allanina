@@ -29,11 +29,11 @@
 #### Contato:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/allanaevellyn/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:allanaevellynm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://allanina.net"><img src="https://img.shields.io/badge/Blog-ad6f7d?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-<a href="https://twitch.tv/allanina/"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-<a href="https://medium.com/@allanina"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://linktr.ee/allanina"><img src="https://img.shields.io/badge/projetos-2EC866?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/allanaevellyn/ target="_blank""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:allanaevellynm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="[https://allanina.net](https://www.allanina.net/)" target="_blank"><img src="https://img.shields.io/badge/Blog-ad6f7d?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+<a href="https://twitch.tv/allanina/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+<a href="https://medium.com/@allanina" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://linktr.ee/allanina" target="_blank"><img src="https://img.shields.io/badge/projetos-2EC866?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 </p>
 
