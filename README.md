@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black"/>
-    <img src="https://img.shields.io/badge/NodeJs-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.Js-F7DF1E?style=for-the-badge&logo=node&logoColor=black"/>
 </div>
 
 
