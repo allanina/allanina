@@ -5,9 +5,9 @@
 <p align="left"> 
   Sou <strong>Desenvolvedora Front-end Jr</strong> <br>
   
-  Realizei transição de carreira em 2021 e fui aluna da turma On10 em Desenvolvimento Front-end na <strong>{reprograma}</strong>, onde atualmente sou professora da oficina de seleção. Fui também monitora voluntária de Front-end e UX/UI da terceira turma do projeto "Impulsione um Tech" da empresa Feel Tech RH, que visa mentorar iniciantes na área de desenvolvimento e ajudá-los a encontrar suas primeiras experiências de trabalho.
+  Fui aluna da turma On10 em Desenvolvimento Front-end na <a href="https://github.com/reprograma" target="_blank">{reprograma}</a>, onde atualmente sou professora da oficina de seleção. Também fui aluna da turma On22 da Imersão Javascript. Sou Tech Lead voluntária da <a href="https://github.com/acafetech" target="_blank">Cafe & Tech</a>, iniciativa voltada para inserção de mulheres em transição de carreira na área de tecnologia.
   
-  Também sou estudante de Análise e Desenvolvimento de Sistemas e Pós-graduada em Análise e Desenvolvimento de Programas, além de Bióloga e especialista em Gestão Ambiental.
+  Sou estudante de Análise e Desenvolvimento de Sistemas e Pós-graduada em Análise e Desenvolvimento de Programas, além de Bióloga e especialista em Gestão Ambiental.
   
   Gosto de atuar em projetos que impactem positivamente a vida das pessoas, principalmente quando relacionados a áreas como educação e sustentabilidade.
 </p>
@@ -21,9 +21,10 @@
   <img src="https://img.shields.io/badge/Next.JS-F7DF1E?style=for-the-badge&logo=nextdotjs&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-F7DF1E?style=for-the-badge&logo=css3&logoColor=black "/>
   <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Node.Js-F7DF1E?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.Js-F7DF1E?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jest-F7DF1E?style=for-the-badge&logo=jest&logoColor=black"/>
+  <img src="https://img.shields.io/badge/react testing library-F7DF1E?style=for-the-badge&logo=testinglibrary&logoColor=black"/>
 </div>
 
 
